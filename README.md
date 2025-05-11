@@ -1,2 +1,2 @@
 # Dependencies
-                                                                                                           app.dll
+    - app.dll
