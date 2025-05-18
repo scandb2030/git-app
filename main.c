@@ -109,5 +109,7 @@ int WINAPI WinMain(HINSTANCE hinstance, HINSTANCE hprevinstance, LPSTR cmdline, 
         DispatchMessage(&msg);
     }
 
+    printf("test");
+
     return msg.wParam;
 }
